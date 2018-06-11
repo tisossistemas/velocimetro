@@ -1,0 +1,2 @@
+Pasta controlada por versionamento do git
+
